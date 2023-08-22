@@ -5,7 +5,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
 
-Program Web Sederhana ini dibuat untuk menyelasaikan tugas ke-1 Studi Independen Web Developer PT. GITS Indonesia. Program ini dibuat menggunakan bahasa pemrograman **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** dan **PHP (Hypertext Preprocessor)** menggunakan Framework **Bootstrap**.
+Program Web Sederhana ini dibuat untuk menyelasaikan tugas ke-1 Studi Independen Web Developer PT. GITS Indonesia. Program ini dibuat menggunakan bahasa pemrograman **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** dan **PHP (Hypertext Preprocessor)** menggunakan Framework **Bootstrap** dan Library TypedJS.
 
 ## Requirements
 
