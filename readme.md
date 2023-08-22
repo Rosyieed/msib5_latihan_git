@@ -12,6 +12,7 @@ Program Web Sederhana ini dibuat untuk menyelasaikan tugas ke-1 Studi Independen
 - XAMPP : PHP >= 8.2.4
 - Google Chrome >= 89.0.4389.114
 - Bootstrap >= 5.3.0
+- NPM >= 9.6.5
 
 ## Instalation
 
