@@ -28,4 +28,4 @@ Program Web Sederhana ini dibuat untuk menyelasaikan tugas ke-1 Studi Independen
 
 ## Credits
 
-Author: Rosyid
+Author: Rosyid Eko Nugroho
