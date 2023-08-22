@@ -17,8 +17,10 @@ Program Web Sederhana ini dibuat untuk menyelasaikan tugas ke-1 Studi Independen
 ## Instalation
 
 - XAMPP
-
   Download [XAMPP](https://www.apachefriends.org/download.html) sesuai OS (Operating System) masing-masing, kemudian install sesuai petunjuk.
+- TypedJS
+
+  
 
 ## Usage
 
